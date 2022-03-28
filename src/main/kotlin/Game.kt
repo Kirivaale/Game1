@@ -4,6 +4,7 @@ fun main() {
     val gameChoice = getGameChoice(options)
     println(gameChoice)
     println(gameChoice)
+    println(gameChoice)
 }
 
 fun getGameChoice(optionsParam: Array<String>) {
